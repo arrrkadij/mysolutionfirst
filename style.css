@@ -1,0 +1,33 @@
+﻿.qwerty {
+    width: 45px;
+    height: 45px;
+    background-color: #4b04cf;
+    color: white;
+    position: absolute;
+    text-align: center;
+    font-size: 12px;
+    -webkit-user-select: none;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 3px solid #9525f7;
+}
+.q1 {
+    top:50px;
+    left:150px;
+}
+
+.q2 {
+    top:95px;
+    left:105px;
+}
+
+.q3 {
+    top:95px;
+    left:195px;
+}
+
+.q4 {
+    top:140px;
+    left:150px;
+}
+
